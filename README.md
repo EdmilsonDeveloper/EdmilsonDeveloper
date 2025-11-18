@@ -1,17 +1,49 @@
-<img align="right" width="400" height="400"
-src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Q4aHp0cmZ5Zzhtanc1MzU0ZHdpbHJuYjBxb213aThwNjBzMjN1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif">
-# Welcome!
-## I'm Edmilson! Let me present a little about myself :D
-Backend focused in NestJs | Software engineer :robot:
-Lover of Technology and coding :heart:
-## About me
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EdmilsonDeveloper)](https://github.com/EdmilsonDeveloper)
+###
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edmilson-nascimento-nestjs/)](https://www.linkedin.com/in/edmilson-nascimento-nestjs/)
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</div>
 
-- Thanks for visiting.
-- Enjoy it!! o/
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Edmilson from Brasil<br><br>- 🔭 I’m working as a Back-End Developer focusing on building scalable APIs with Node.js, TypeScript and NestJS.<br>- 📚 I'm currently learning advanced NestJS patterns, PostgreSQL, Clean Architecture and improving my English skills.<br>- ⚡ In my free time I enjoy reading, playing games and spending time with friends.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
 
 <!---
 EdmilsonDeveloper/EdmilsonDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
